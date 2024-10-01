@@ -1,5 +1,5 @@
 # DART
-- [] FIRST ATTEMPT
+- [ ] FIRST ATTEMPT
 ## DART
 ## KUNJI
 
